@@ -14,7 +14,7 @@
   yarn start <ws enpoint> <pool size> <call number>
 ```
 
-It makes `<call number>` eth_call requests to `<ws enpoint>` via `<pool size> connections`.
+It makes `<call number>` eth_call requests to `<ws enpoint>` via `<pool size>` webscoket connections.
 
 ### Example:
 
