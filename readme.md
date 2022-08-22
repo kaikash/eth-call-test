@@ -3,8 +3,8 @@
 ### Install
 
 ```bash
-  git clone web3-test-load
-  cd web3-test-load
+  git clone https://github.com/kaikash/eth-call-test.git
+  cd eth-call-test
   yarn install
 ```
 
